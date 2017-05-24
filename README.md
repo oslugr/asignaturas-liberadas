@@ -1,5 +1,6 @@
-# asignaturas-liberadas
-Tabla con asignaturas de la UGR cuyos apuntes están en la web con licencia libre. 
+# Asignaturas con licencia libre en la UGR
+
+Tabla con asignaturas de la [UGR](http://www.ugr.es) cuyos apuntes están en la web con licencia libre. 
 
 | Asignatura | Grado o Máster | Profesorado | Enlace | Licencia |
 | ---------- | -------------- | ----------- | -------| -------- |
